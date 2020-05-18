@@ -1,0 +1,13 @@
+C:\Users\сборка\source\repos\CalculatorBack\CalculatorBack\bin\Debug\netcoreapp3.1\CalculatorBack.exe
+C:\Users\сборка\source\repos\CalculatorBack\CalculatorBack\bin\Debug\netcoreapp3.1\CalculatorBack.deps.json
+C:\Users\сборка\source\repos\CalculatorBack\CalculatorBack\bin\Debug\netcoreapp3.1\CalculatorBack.runtimeconfig.json
+C:\Users\сборка\source\repos\CalculatorBack\CalculatorBack\bin\Debug\netcoreapp3.1\CalculatorBack.runtimeconfig.dev.json
+C:\Users\сборка\source\repos\CalculatorBack\CalculatorBack\bin\Debug\netcoreapp3.1\CalculatorBack.dll
+C:\Users\сборка\source\repos\CalculatorBack\CalculatorBack\bin\Debug\netcoreapp3.1\CalculatorBack.pdb
+C:\Users\сборка\source\repos\CalculatorBack\CalculatorBack\obj\Debug\netcoreapp3.1\CalculatorBack.csprojAssemblyReference.cache
+C:\Users\сборка\source\repos\CalculatorBack\CalculatorBack\obj\Debug\netcoreapp3.1\CalculatorBack.csproj.CoreCompileInputs.cache
+C:\Users\сборка\source\repos\CalculatorBack\CalculatorBack\obj\Debug\netcoreapp3.1\CalculatorBack.AssemblyInfoInputs.cache
+C:\Users\сборка\source\repos\CalculatorBack\CalculatorBack\obj\Debug\netcoreapp3.1\CalculatorBack.AssemblyInfo.cs
+C:\Users\сборка\source\repos\CalculatorBack\CalculatorBack\obj\Debug\netcoreapp3.1\CalculatorBack.dll
+C:\Users\сборка\source\repos\CalculatorBack\CalculatorBack\obj\Debug\netcoreapp3.1\CalculatorBack.pdb
+C:\Users\сборка\source\repos\CalculatorBack\CalculatorBack\obj\Debug\netcoreapp3.1\CalculatorBack.genruntimeconfig.cache
